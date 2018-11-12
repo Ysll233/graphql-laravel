@@ -1,11 +1,10 @@
 {
-    "name": "ysll233/graphql-laravel",
-    "description": "Laravel wrapper for PHP GraphQL",
+    "name": "ysll233/graphql-laravel5",
+    "description": "Laravel5 wrapper for PHP GraphQL",
     "keywords": [
         "framework",
         "laravel",
-        "graphql",
-        "react"
+        "graphql"
     ],
     "authors": [
         {
