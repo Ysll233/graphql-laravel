@@ -1,5 +1,5 @@
 {
-    "name": "rebing/graphql-laravel",
+    "name": "Ysll233/graphql-laravel",
     "description": "Laravel wrapper for PHP GraphQL",
     "keywords": [
         "framework",
@@ -28,6 +28,10 @@
             "email": "dmp@atelierfolklore.ca",
             "homepage": "http://mongo.ca",
             "role": "Developer"
+        },
+        {
+            "name": "Ysll233",
+            "email": "754060604@qq.com"
         }
     ],
     "license": "MIT",
